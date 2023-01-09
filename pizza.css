@@ -1,0 +1,40 @@
+.lightup {
+    background-color: #dc3545 !important;
+}
+
+a {
+    color: #f8f9fa;
+}
+
+.long{
+    height: 600px;
+}
+
+.piz {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.pizz {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.bord {
+    background-color: chocolate;
+}
+.bord1 {
+    background-color: yellow;
+}
+.bord2 {
+    background-color: thistle;
+}
+.bord3 {
+    background-color: turquoise;
+}
+
+.footer {
+    background-color:darkgoldenrod;
+    padding: 1.5rem 0;
+    color: white;
+}
